@@ -1,0 +1,12 @@
+{
+  "name": "helper-example",
+  "version": "1.0.0",
+  "description": "Exemplo de funcionamento de um bot estilo Square Helper usando a API de IA da Square Cloud.",
+  "main": "index.js",
+  "author": "Rafosto#3583 (https://github.com/rafosto)",
+  "license": "GPLv3",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  }
+}

@@ -1,0 +1,6 @@
+# Arquivos de configuração
+.env
+
+# Dependências
+node_modules/
+package-lock.json
